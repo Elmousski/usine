@@ -1,6 +1,6 @@
 # README usine
 
-fait avec charlotte, joel, mathieu et émilie
+fait avec charlotte, joel, matthieu et émilie
 
 
 ENONCÉ :
@@ -17,3 +17,9 @@ Il y aurait deux modèles :
         un part_number qui serait un string
 
 Cet exemple n'est pas ouf, mais il correspond exactement à l'exemple de la doc, que nous te conseillons de voir. Tu verras comment lier entre eux des modèles.
+
+#Etapes :
+1) git clone du dossier
+2) bundle install (dans le dossier)
+3) rails db:migrate
+4) rails db:seed
