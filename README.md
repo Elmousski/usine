@@ -1,24 +1,19 @@
-# README
+# README usine
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+fait avec charlotte, joel, mathieu et émilie
 
-Things you may want to cover:
 
-* Ruby version
+ENONCÉ :
+2.1. Le pitch
 
-* System dependencies
+Les usines sont à la mode en ce moment, nous allons créer un site pour les usines. Nous allons créer un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
+2.2. Les models
 
-* Configuration
+Il y aurait deux modèles :
 
-* Database creation
+    le model assembly, qui aurait comme attribut :
+        un name, qui serait un string
+    le model part, qui aurait comme attribut :
+        un part_number qui serait un string
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cet exemple n'est pas ouf, mais il correspond exactement à l'exemple de la doc, que nous te conseillons de voir. Tu verras comment lier entre eux des modèles.
