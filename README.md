@@ -1,4 +1,4 @@
-# README usine
+# Usine
 
 fait avec charlotte, joel, matthieu et émilie
 
